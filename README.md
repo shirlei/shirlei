@@ -7,3 +7,7 @@
 - 📫 How to reach me: shirlei at gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: would love to reincarnate as a cat
+
+Other projects I've collaborated:
+
+- https://git.rnp.br/GT-AMPTo/roteiro-instalacao
