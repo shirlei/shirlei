@@ -8,6 +8,6 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: would love to reincarnate as a cat
 
-Other projects I've collaborated:
+Other projects I've collaborated on:
 
 - https://git.rnp.br/GT-AMPTo/roteiro-instalacao
